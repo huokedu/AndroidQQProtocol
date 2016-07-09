@@ -1,2 +1,3 @@
 # AndroidQQProtocol
-android qq protocol 
+qq login based on android qq 5.8
+

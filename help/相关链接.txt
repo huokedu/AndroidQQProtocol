@@ -1,0 +1,9 @@
+http://kf.qq.com/touch/faq/120307IVnEni1305187VbQN7.html?platform=14
+如何查看好友的在线状态？
+目前新版本手机QQ聊天窗口中，好友在线状态显示逻辑如下：
+如好友是使用iPhone5S及以下手机QQ在线登录，则显示“iPhone在线”；
+如好友是使用iPhone6或iPhone 6plus手机QQ在线登录，则显示“iPhone6/iPhone 6plus在线”；
+如好友使用iPadQQ在线登录，则显示“iPad在线”；
+如好友使用电脑QQ/PadQQ在线登录，则显示“在线”；
+如好友使用登录其它平台手机QQ、3GQQ、关联QQ号、微信在线（微信接收QQ离线消息），则在聊天界面会显示“手机在线”。
+注：如好友在手机QQ权限与隐私中开启了“向好友展示网终状态”，则会显示：**在线+网络类型（Wifi/4G/3G/2G）。
